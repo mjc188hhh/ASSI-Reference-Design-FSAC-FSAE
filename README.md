@@ -1,2 +1,5 @@
+ASSI
+FSAC
+FSAE
 PCB文件使用嘉立创(JLC)专业版打开
 工程同时也已经在立创社区开源，直接搜关键词ASSI

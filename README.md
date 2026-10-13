@@ -2,7 +2,15 @@
 # ASSI
 
 ## FSAC / FSAE
+Open the PCB files using JLCEDA Professional Edition (JLCPCB).
 
+The project has also been open-sourced on the Lichuang Community platform. Simply search for the keyword ASSI.
+
+All PCB components can use 0805 packages. The 1206 pads are only there to facilitate PCB routing.
+
+The horizontal 3D model is designed to be mounted on the rear cover.
+
+For waterproofing, make sure to apply at least three coats of conformal coating to both the inside and outside surfaces. Apply each coat and let it dry before applying the next. I used PCB conformal coating for this purpose.
 PCB文件使用嘉立创（JLC）专业版打开。
 
 工程同时也已经在立创社区开源，直接搜索关键词 ASSI。
